@@ -6,3 +6,6 @@
 # Instructions to Run
 `python3 -m venv`
 `python3 -m pip install -r requirements.txt`
+`playwright install --deps`
+`playwright install`
+`python3 main.py`
